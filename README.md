@@ -45,3 +45,6 @@ The project is a simple SDL application that displays a window with an image of 
 
 ## Acknowledgements
 - The project was inspired by xeyes.
+
+## License
+MIT License © 2024 @victoriasx
